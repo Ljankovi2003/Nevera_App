@@ -1,4 +1,4 @@
-#Nevera
+## Nevera
 
 Nevera is an innovative mobile application designed to leverage the widespread availability of smartphones to enhance earthquake preparedness and response efforts. By harnessing the capabilities of the sensors embedded in modern smartphones, Nevera aims to create a vast network of mobile earthquake detectors that contribute to early warning and post-event analysis.
 Core Features of Nevera:
