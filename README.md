@@ -1,5 +1,10 @@
 # Nevera
-![home](https://github.com/Ljankovi2003/Nevera_App/assets/159859227/77ed520c-cb12-4e34-8eae-28a6a0b0dd9a)
+<p align="center">
+  <img src="https://github.com/Ljankovi2003/Nevera_App/assets/159859227/77ed520c-cb12-4e34-8eae-28a6a0b0dd9a" alt="home">
+</p>
+
+In this sn
+
 Nevera is an innovative mobile application designed to leverage the widespread availability of smartphones to enhance earthquake preparedness and response efforts. By harnessing the capabilities of the sensors embedded in modern smartphones, Nevera aims to create a vast network of mobile earthquake detectors that contribute to early warning and post-event analysis.
 Core Features of Nevera:
 
@@ -19,7 +24,9 @@ The home screen serves as the central hub for the app, offering users immediate 
 Recognizing the value of community reports, Nevera includes a feature that allows users to report observed earthquakes. This form enables users to contribute firsthand observations, enhancing the app's data pool and aiding in the accurate assessment of seismic events.
 
 ## Movement Monitoring Test
-![alert](https://github.com/Ljankovi2003/Nevera_App/assets/159859227/24a4ce77-4458-449b-94d2-8f1c3ec175ca)s
+![alert](https://github.com/Ljankovi2003/Nevera_App/assets/159859227/24a4ce77-4458-449b-94d2-8f1c3ec175ca)
+
+
 For users interested in understanding how the app detects seismic activity, Nevera offers a movement monitoring test. This feature allows users to see in real-time how their phone's movements are captured and analyzed, providing a transparent and educational insight into the app's detection capabilities.
 
 ## Conclusion
