@@ -3,9 +3,11 @@
 Nevera is an innovative mobile application designed to leverage the widespread availability of smartphones to enhance earthquake preparedness and response efforts. By harnessing the capabilities of the sensors embedded in modern smartphones, Nevera aims to create a vast network of mobile earthquake detectors that contribute to early warning and post-event analysis.
 Core Features of Nevera:
 
-Earthquake Detection: At the heart of Nevera's functionality is its ability to use the phone's sensors to detect unusual movements indicative of seismic activity. When the app detects what it considers suspicious vibrations, it automatically captures and sends this movement data to centralized servers for further analysis. This approach allows for real-time data collection from a vast array of locations, significantly improving the detection and analysis of potential earthquake events.
+## Earthquake Detection 
+At the heart of Nevera's functionality is its ability to use the phone's sensors to detect unusual movements indicative of seismic activity. When the app detects what it considers suspicious vibrations, it automatically captures and sends this movement data to centralized servers for further analysis. This approach allows for real-time data collection from a vast array of locations, significantly improving the detection and analysis of potential earthquake events.
 
-## Location Saving: In the event of unusual vibratory patterns suggestive of an earthquake, Nevera records the phone's last known location on the server. This critical feature ensures that, in the aftermath of an earthquake, responders have access to potentially life-saving information about the last known locations of individuals within the affected area. This data can be crucial for search and rescue operations, helping to prioritize efforts and resources more effectively.
+## Location Saving
+In the event of unusual vibratory patterns suggestive of an earthquake, Nevera records the phone's last known location on the server. This critical feature ensures that, in the aftermath of an earthquake, responders have access to potentially life-saving information about the last known locations of individuals within the affected area. This data can be crucial for search and rescue operations, helping to prioritize efforts and resources more effectively.
 
 Nevera offers a user-friendly interface with several key functionalities:
 
