@@ -21,6 +21,6 @@ Recognizing the value of community reports, Nevera includes a feature that allow
 ## Movement Monitoring Test
 For users interested in understanding how the app detects seismic activity, Nevera offers a movement monitoring test. This feature allows users to see in real-time how their phone's movements are captured and analyzed, providing a transparent and educational insight into the app's detection capabilities.
 
-##vConclusion
+## Conclusion
 
 Nevera stands at the intersection of technology and disaster preparedness, embodying a forward-thinking approach to earthquake detection. By turning everyday smartphones into a collaborative network of seismic sensors, Nevera not only enhances early warning efforts but also plays a vital role in post-earthquake response and recovery. Its user-friendly design, coupled with its innovative use of mobile sensor technology, makes Nevera a pioneering tool in the quest to mitigate the impacts of earthquakes on communities worldwide.
