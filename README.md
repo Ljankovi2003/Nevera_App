@@ -42,3 +42,9 @@ For users interested in understanding how the app detects seismic activity, Neve
 ## Conclusion
 
 Nevera stands at the intersection of technology and disaster preparedness, embodying a forward-thinking approach to earthquake detection. By turning everyday smartphones into a collaborative network of seismic sensors, Nevera not only enhances early warning efforts but also plays a vital role in post-earthquake response and recovery. Its user-friendly design, coupled with its innovative use of mobile sensor technology, makes Nevera a pioneering tool in the quest to mitigate the impacts of earthquakes on communities worldwide.
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
