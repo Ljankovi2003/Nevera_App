@@ -1,5 +1,6 @@
 # Nevera
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MIT]([https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white](https://img.shields.io/badge/License-MIT-blue.svg))
 
 <p align="center">
   <img src="https://github.com/Ljankovi2003/Nevera_App/assets/159859227/77ed520c-cb12-4e34-8eae-28a6a0b0dd9a" alt="home">
